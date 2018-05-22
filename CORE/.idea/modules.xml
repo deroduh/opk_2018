@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/java-chat-client.iml" filepath="$PROJECT_DIR$/client/java-chat-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/java-chat-common.iml" filepath="$PROJECT_DIR$/common/java-chat-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-chat-parent.iml" filepath="$PROJECT_DIR$/java-chat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/java-chat-server.iml" filepath="$PROJECT_DIR$/server/java-chat-server.iml" />
+    </modules>
+  </component>
+</project>
