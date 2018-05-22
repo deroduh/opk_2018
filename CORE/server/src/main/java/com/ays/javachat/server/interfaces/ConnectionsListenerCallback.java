@@ -1,16 +1,6 @@
 package com.ays.javachat.server.interfaces;
 /**
- *
- * <p>Title: </p>
- *
  * <p>Description: Provides for global interfaces</p>
- *
- * <p>Copyright: Copyright (c) 2005</p>
- *
- * <p>Company: </p>
- *
- * @author not attributable
- * @version 1.0
  */
 
 

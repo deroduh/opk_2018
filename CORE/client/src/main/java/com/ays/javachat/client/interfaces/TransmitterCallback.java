@@ -1,14 +1,5 @@
 /**
  * <p> TransmitterCallback interface </p>
- *
- * <p>Description: </p>
- *
- * <p>Copyright: Copyright (c) 2005</p>
- *
- * <p>Company: AYS company</p>
- *
- * @Yevgeny S.
- * @version 1.0
  */
 
 package com.ays.javachat.client.interfaces;
