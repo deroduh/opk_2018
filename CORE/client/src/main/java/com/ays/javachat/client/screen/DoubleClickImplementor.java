@@ -35,4 +35,5 @@ public class DoubleClickImplementor extends Thread {
 
         doubleClick.doubleClickTimeout(mouseEvent);
     }
+
 }

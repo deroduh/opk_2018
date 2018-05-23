@@ -20,51 +20,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ServerDatabase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/ays/javachat/server/database/ServerDatabase.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3775">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="119">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OnlineList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/OnlineList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="133" column="30" lean-forward="false" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
-              <folding>
-                <element signature="method#mouseExited#0;class#OnlineList#0" expanded="false" />
-                <element signature="method#mouseEntered#0;class#OnlineList#0" expanded="false" />
-                <element signature="method#mouseReleased#0;class#OnlineList#0" expanded="false" />
-                <element signature="method#mousePressed#0;class#OnlineList#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dialogs.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/Dialogs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#Dialogs#0;class#Dialogs#0" expanded="false" />
-                <element signature="method#chars2String#0;class#Dialogs#0" expanded="false" />
-                <element signature="method#showDialog#0;class#Dialogs#0" expanded="false" />
-                <element signature="method#loginDialog#0;class#Dialogs#0" expanded="false" />
-                <element signature="method#connectDialog#0;class#Dialogs#0" expanded="false" />
-                <element signature="method#registerDialog#0;class#Dialogs#0" expanded="false" />
-                <element signature="docComment;method#showUserDetailsDialog#0;class#Dialogs#0" expanded="false" />
-                <element signature="method#showUserDetailsDialog#0;class#Dialogs#0" expanded="false" />
-                <element signature="docComment;method#manageIgnoreUsersialog#0;class#Dialogs#0" expanded="false" />
-                <element signature="method#manageIgnoreUsersialog#0;class#Dialogs#0" expanded="false" />
-                <element signature="docComment;method#aboutDialog#0;class#Dialogs#0" expanded="false" />
-                <element signature="method#aboutDialog#0;class#Dialogs#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -72,71 +33,26 @@
       <file leaf-file-name="ClientTransmitter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/transmitter/ClientTransmitter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+            <state relative-caret-position="187">
+              <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#ClientTransmitter#0;class#ClientTransmitter#0" expanded="false" />
+                <element signature="method#connect#0;class#ClientTransmitter#0" expanded="false" />
+                <element signature="method#disconnect#0;class#ClientTransmitter#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConnectionsListenerCapables.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/ays/javachat/server/interfaces/ConnectionsListenerCapables.java">
+      <file leaf-file-name="ThreadListener.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/transmitter/ThreadListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServerDatabaseCapables.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/ays/javachat/server/interfaces/ServerDatabaseCapables.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TransmitterCallback.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/ays/javachat/server/interfaces/TransmitterCallback.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TransmitterCapables.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/ays/javachat/server/interfaces/TransmitterCapables.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServerManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/ays/javachat/server/manager/ServerManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConnectionsListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/ays/javachat/server/transmitter/ConnectionsListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="272">
+              <caret line="19" column="94" lean-forward="false" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="94" />
+              <folding>
+                <element signature="method#ThreadListener#0;class#ThreadListener#0" expanded="false" />
+                <element signature="method#run#0;class#ThreadListener#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -157,13 +73,17 @@
         <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/transmitter/ClientTransmitter.java" />
         <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/manager/ClientManager.java" />
         <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/Dialogs.java" />
-        <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/ClientScreen.java" />
-        <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/interfaces/ScreenCallback.java" />
         <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/interfaces/ScreenCapables.java" />
         <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/interfaces/TransmitterCallback.java" />
         <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/interfaces/TransmitterCapables.java" />
         <option value="$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/utils/StringUtils.java" />
         <option value="$PROJECT_DIR$/server/src/main/java/com/ays/javachat/server/interfaces/ConnectionsListenerCallback.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/interfaces/ScreenCallback.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/ClientScreen.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/DoubleClickImplementor.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/OnlineList.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/OnlineListActions.java" />
+        <option value="$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/Rooms.java" />
       </list>
     </option>
   </component>
@@ -194,8 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -212,156 +130,6 @@
             <path>
               <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="screen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="transmitter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="datatypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="globalconsts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="messages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="DATA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -376,75 +144,14 @@
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="transmitter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-chat-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CORE" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -623,12 +330,14 @@
       <workItem from="1526030229751" duration="377000" />
       <workItem from="1526303355502" duration="1286000" />
       <workItem from="1526822817622" duration="6096000" />
-      <workItem from="1526994099498" duration="21795000" />
+      <workItem from="1526994099498" duration="22446000" />
+      <workItem from="1527050375342" duration="11993000" />
+      <workItem from="1527071092199" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43943000" />
+    <option name="totallyTimeSpent" value="56595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -636,7 +345,6 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -649,7 +357,6 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31405565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761312" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -660,7 +367,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3322933" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -671,320 +380,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="18" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/main/java/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/datatypes/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/datatypes/IgnoredUsers2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/datatypes/IPPort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/datatypes/LoginData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/datatypes/UserDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/globalconsts/Net.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ClientText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/Connect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/Disconnect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/GetOnlineUsersList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/GetUserDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/GetUsersIgnoredByMe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/IgnoreUsers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/Logout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/Register.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyClientText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyConnect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyDisconnect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyEmpty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyGetOnlineUsersList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyGetUserDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyGetUsersIgnoredByMe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyIgnoreUsers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyLogout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyRegister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplySetUserDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyUnregister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ServerNotification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ServerText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/SetUserDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/UnRegister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/UpdateUsersList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/utils/StringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -992,7 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1000,7 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1008,7 +410,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1016,7 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1024,7 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1032,7 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,7 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1048,59 +445,818 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/transmitter/ClientTransmitter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/src/main/java/com/ays/javachat/server/database/ServerDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3775">
+        <state relative-caret-position="136">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/usera">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/user.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/interfaces/TransmitterCapables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/interfaces/ScreenCapables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/interfaces/ScreenCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/ays/javachat/server/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/interfaces/TransmitterCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/awt/GridBagLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1158">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/AbstractButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="1924" column="16" lean-forward="false" selection-start-line="1924" selection-start-column="16" selection-end-line="1924" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/ReplyLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/messages/Logout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/datatypes/UserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="312" column="13" lean-forward="false" selection-start-line="312" selection-start-column="13" selection-end-line="312" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ays/javachat/common/datatypes/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="745" column="16" lean-forward="false" selection-start-line="745" selection-start-column="16" selection-end-line="745" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/DoubleClickImplementor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="1028" column="16" lean-forward="false" selection-start-line="1028" selection-start-column="16" selection-end-line="1028" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/dero/Downloads/java-chat/CORE/client/src/main/java/com/ays/javachat/client/screen">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="469.0" y="190.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.ays.javachat.client.screen">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.ays.javachat.client.screen</OriginalElement>
+          <nodes>
+            <node x="" y="">com.ays.javachat.client.screen.Dialogs</node>
+            <node x="" y="">com.ays.javachat.client.screen.ClientScreen</node>
+            <node x="" y="">com.ays.javachat.client.screen.RoomActions</node>
+            <node x="" y="">com.ays.javachat.client.screen.PrivateRoomContainer</node>
+            <node x="" y="">com.ays.javachat.client.screen.DoubleClickImplementor</node>
+            <node x="" y="">com.ays.javachat.client.screen.OnlineList</node>
+            <node x="" y="">com.ays.javachat.client.screen.OnlineListActions</node>
+            <node x="" y="">com.ays.javachat.client.screen.DoubleClick</node>
+            <node x="" y="">com.ays.javachat.client.screen.Rooms</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.38064823641563394" x="922.0" y="375.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/awt/event/ComponentEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="129" column="21" lean-forward="false" selection-start-line="129" selection-start-column="21" selection-end-line="129" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.ays.javachat.client.screen.OnlineList">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.ays.javachat.client.screen.OnlineList</OriginalElement>
+          <nodes>
+            <node x="2084.75" y="16059.0">java.awt.Container.WakingRunnable</node>
+            <node x="1484.75" y="19262.5">java.awt.Container.MouseEventTargetFilter</node>
+            <node x="301.0" y="11401.0">java.awt.Component.DummyRequestFocusController</node>
+            <node x="2541.75" y="19285.5">java.awt.event.ActionListener</node>
+            <node x="2997.8333333333335" y="11368.0">java.awt.Component.BaselineResizeBehavior</node>
+            <node x="2126.875" y="19952.0">com.ays.javachat.client.screen.OnlineList</node>
+            <node x="1726.75" y="19285.5">com.ays.javachat.client.screen.DoubleClick</node>
+            <node x="4825.0075633383" y="11412.5">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="1066.0833333333335" y="0.0">java.awt.image.ImageObserver</node>
+            <node x="3916.281178589169" y="19119.0">javax.swing.JComponent.AccessibleJComponent</node>
+            <node x="822.0" y="11169.0">java.awt.Component.FlipBufferStrategy</node>
+            <node x="4449.4222801788355" y="19207.5">javax.swing.JComponent.IntVector</node>
+            <node x="3521.289716840535" y="11037.0">java.awt.Component.AccessibleAWTComponent</node>
+            <node x="1166.0" y="11224.0">java.awt.Component.BltBufferStrategy</node>
+            <node x="250.03971684053477" y="16048.0">java.awt.Component.FlipSubRegionBufferStrategy</node>
+            <node x="3766.414716840535" y="20184.0">javax.swing.JComponent.AccessibleJComponent.AccessibleFocusHandler</node>
+            <node x="2540.8333333333335" y="11401.0">java.awt.Component.ProxyCapabilities</node>
+            <node x="1937.5000000000002" y="9464.0">java.awt.Container</node>
+            <node x="0.0" y="11345.0">java.awt.Component.SingleBufferStrategy</node>
+            <node x="3289.1306135121686" y="15981.0">java.awt.Container.AccessibleAWTContainer</node>
+            <node x="2022.75" y="19262.5">java.awt.Container.DropTargetEventTargetFilter</node>
+            <node x="3272.375" y="20106.0">javax.swing.JComponent.ActionStandin</node>
+            <node x="1213.25" y="16048.0">java.awt.Component.BltSubRegionBufferStrategy</node>
+            <node x="2271.75" y="19241.5">java.awt.event.MouseListener</node>
+            <node x="4543.1325633383" y="13462.0">javax.swing.JComponent</node>
+            <node x="5253.4222801788355" y="15850.5">javax.swing.ScrollPaneConstants</node>
+            <node x="1413.0833333333333" y="66.0">java.awt.MenuContainer</node>
+            <node x="2435.9375" y="20184.0">javax.swing.JComponent.AccessibleJComponent.AccessibleContainerHandler</node>
+            <node x="5569.4222801788355" y="16070.5">javax.accessibility.Accessible</node>
+            <node x="4294.0889468455025" y="20139.0">javax.swing.JScrollPane.AccessibleJScrollPane</node>
+            <node x="1225.5" y="288.0">java.awt.Component</node>
+            <node x="2990.531178589169" y="19263.0">java.awt.Container.AccessibleAWTContainer.AccessibleContainerHandler</node>
+            <node x="1754.625" y="16070.5">java.awt.Container.EventTargetFilter</node>
+            <node x="3677.7083333333335" y="99.5">java.io.Serializable</node>
+            <node x="2823.8333333333335" y="11412.5">java.awt.Component.AWTTreeLock</node>
+            <node x="5250.4222801788355" y="18800.0">javax.swing.JScrollPane</node>
+            <node x="3599.281178589169" y="19241.0">java.awt.Component.AccessibleAWTComponent.AccessibleAWTComponentHandler</node>
+            <node x="4983.4222801788355" y="19218.5">javax.swing.JComponent.KeyboardState</node>
+            <node x="2910.5" y="16081.5">java.util.EventListener</node>
+            <node x="4676.4222801788355" y="19240.5">javax.swing.JComponent.ReadObjectCallback</node>
+            <node x="5395.0889468455025" y="20139.0">javax.swing.JScrollPane.ScrollBar</node>
+            <node x="3345.281178589169" y="19263.0">java.awt.Component.AccessibleAWTComponent.AccessibleAWTFocusHandler</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="javax.swing.JScrollPane.ScrollBar" target="javax.swing.JScrollPane">
+              <point x="0.0" y="-93.0" />
+              <point x="100.66666666666697" y="511.0" />
+            </edge>
+            <edge source="javax.swing.JComponent" target="java.awt.Container">
+              <point x="-161.0" y="-2634.0" />
+              <point x="4623.6325633383" y="13432.0" />
+              <point x="2450.833333333334" y="13432.0" />
+              <point x="233.33333333333348" y="1974.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.KeyboardState" target="javax.swing.JComponent">
+              <point x="-61.75" y="-92.5" />
+              <point x="5045.1722801788355" y="18770.0" />
+              <point x="4922.6325633383" y="18770.0" />
+              <point x="138.0" y="2634.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.image.ImageObserver">
+              <point x="-155.33333333333348" y="-4548.0" />
+              <point x="1303.1666666666665" y="268.0" />
+              <point x="1229.5833333333335" y="268.0" />
+              <point x="0.0" y="114.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.AccessibleJComponent.AccessibleFocusHandler" target="java.util.EventListener">
+              <point x="-57.25" y="-48.0" />
+              <point x="3823.664716840535" y="19862.0" />
+              <point x="2964.0" y="19862.0" />
+              <point x="2964.0" y="18780.0" />
+              <point x="2962.125" y="18780.0" />
+              <point x="-7.375" y="14.5" />
+            </edge>
+            <edge source="java.awt.Container.WakingRunnable" target="java.awt.Container">
+              <point x="0.0" y="-37.0" />
+              <point x="2169.75" y="13442.0" />
+              <point x="2170.8333333333335" y="13442.0" />
+              <point x="-46.66666666666674" y="1974.0" />
+            </edge>
+            <edge source="java.awt.Container.AccessibleAWTContainer.AccessibleContainerHandler" target="java.awt.Container.AccessibleAWTContainer">
+              <point x="74.0" y="-48.0" />
+              <point x="3212.531178589169" y="18780.0" />
+              <point x="3388.3806135121686" y="18780.0" />
+              <point x="-99.25" y="115.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.AccessibleJComponent.AccessibleContainerHandler" target="java.util.EventListener">
+              <point x="-74.0" y="-48.0" />
+              <point x="2509.9375" y="19882.0" />
+              <point x="2808.25" y="19882.0" />
+              <point x="2808.25" y="18780.0" />
+              <point x="2947.375" y="18780.0" />
+              <point x="-22.125" y="14.5" />
+            </edge>
+            <edge source="com.ays.javachat.client.screen.OnlineList" target="java.awt.event.MouseListener">
+              <point x="-36.125" y="-280.0" />
+              <point x="2235.25" y="19862.0" />
+              <point x="2396.75" y="19862.0" />
+              <point x="0.0" y="69.5" />
+            </edge>
+            <edge source="java.awt.Component.FlipSubRegionBufferStrategy" target="java.awt.Component.FlipBufferStrategy">
+              <point x="86.0" y="-48.0" />
+              <point x="508.03971684053477" y="13442.0" />
+              <point x="984.0" y="13442.0" />
+              <point x="0.0" y="269.0" />
+            </edge>
+            <edge source="java.awt.Component.ProxyCapabilities" target="java.awt.Component">
+              <point x="0.0" y="-37.0" />
+              <point x="2672.3333333333335" y="9434.0" />
+              <point x="1543.2272727272727" y="9434.0" />
+              <point x="84.72727272727275" y="4548.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.AccessibleJComponent" target="java.awt.Container.AccessibleAWTContainer">
+              <point x="-107.75" y="-192.0" />
+              <point x="4024.031178589169" y="18750.0" />
+              <point x="3586.8806135121686" y="18750.0" />
+              <point x="99.25" y="115.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.ActionStandin" target="javax.swing.JComponent">
+              <point x="99.25" y="-126.0" />
+              <point x="3570.125" y="19912.0" />
+              <point x="4438.9222801788355" y="19912.0" />
+              <point x="4438.9222801788355" y="18770.0" />
+              <point x="4646.6325633383" y="18770.0" />
+              <point x="-138.0" y="2634.0" />
+            </edge>
+            <edge source="java.awt.Component.BltSubRegionBufferStrategy" target="java.awt.Component">
+              <point x="84.75" y="-48.0" />
+              <point x="1467.5" y="13442.0" />
+              <point x="1458.5" y="13442.0" />
+              <point x="0.0" y="4548.0" />
+            </edge>
+            <edge source="javax.swing.JScrollPane.AccessibleJScrollPane" target="java.util.EventListener">
+              <point x="-101.33333333333303" y="-93.0" />
+              <point x="4344.7556135121695" y="19852.0" />
+              <point x="2980.031178589169" y="19852.0" />
+              <point x="2980.031178589169" y="18780.0" />
+              <point x="2976.875" y="18780.0" />
+              <point x="7.375" y="14.5" />
+            </edge>
+            <edge source="java.awt.Component" target="java.io.Serializable">
+              <point x="155.33333333333326" y="-4548.0" />
+              <point x="1613.8333333333333" y="258.0" />
+              <point x="3688.308333333334" y="258.0" />
+              <point x="-42.399999999999636" y="14.5" />
+            </edge>
+            <edge source="java.awt.Container.DropTargetEventTargetFilter" target="java.awt.Container.EventTargetFilter">
+              <point x="-57.25" y="-48.5" />
+              <point x="2080.0" y="18780.0" />
+              <point x="1921.125" y="18780.0" />
+              <point x="55.5" y="25.5" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent.AccessibleAWTFocusHandler" target="java.awt.Component.AccessibleAWTComponent">
+              <point x="58.5" y="-48.0" />
+              <point x="3520.781178589169" y="18780.0" />
+              <point x="3708.4980501738683" y="18780.0" />
+              <point x="3708.4980501738683" y="13442.0" />
+              <point x="3719.789716840535" y="13442.0" />
+              <point x="0.0" y="401.0" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent.AccessibleAWTFocusHandler" target="java.util.EventListener">
+              <point x="-58.5" y="-48.0" />
+              <point x="3403.781178589169" y="18770.0" />
+              <point x="3006.375" y="18770.0" />
+              <point x="36.875" y="14.5" />
+            </edge>
+            <edge source="java.awt.Container.AccessibleAWTContainer" target="java.awt.Component.AccessibleAWTComponent">
+              <point x="99.25" y="-115.0" />
+              <point x="-132.33333333333348" y="401.0" />
+            </edge>
+            <edge source="java.awt.event.MouseListener" target="java.util.EventListener">
+              <point x="0.0" y="-69.5" />
+              <point x="2396.75" y="18760.0" />
+              <point x="2917.875" y="18760.0" />
+              <point x="-51.625" y="14.5" />
+            </edge>
+            <edge source="com.ays.javachat.client.screen.OnlineList" target="javax.swing.JScrollPane">
+              <point x="108.375" y="-280.0" />
+              <point x="2379.75" y="19922.0" />
+              <point x="5300.755613512169" y="19922.0" />
+              <point x="-100.66666666666697" y="511.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.AccessibleJComponent.AccessibleFocusHandler" target="javax.swing.JComponent.AccessibleJComponent">
+              <point x="57.25" y="-48.0" />
+              <point x="3938.164716840535" y="19902.0" />
+              <point x="4131.781178589169" y="19902.0" />
+              <point x="0.0" y="192.0" />
+            </edge>
+            <edge source="java.awt.Component.BltBufferStrategy" target="java.awt.Component">
+              <point x="0.0" y="-214.0" />
+              <point x="1307.0" y="9444.0" />
+              <point x="1416.1363636363637" y="9444.0" />
+              <point x="-42.36363636363626" y="4548.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.ReadObjectCallback" target="javax.swing.JComponent">
+              <point x="0.0" y="-70.5" />
+              <point x="4819.4222801788355" y="18780.0" />
+              <point x="4784.6325633383" y="18780.0" />
+              <point x="0.0" y="2634.0" />
+            </edge>
+            <edge source="java.awt.Component.AWTTreeLock" target="java.awt.Component">
+              <point x="0.0" y="-25.5" />
+              <point x="2900.8333333333335" y="9424.0" />
+              <point x="1585.590909090909" y="9424.0" />
+              <point x="127.09090909090901" y="4548.0" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent" target="java.awt.Component">
+              <point x="-99.25" y="-401.0" />
+              <point x="3620.539716840535" y="9404.0" />
+              <point x="1670.318181818182" y="9404.0" />
+              <point x="211.81818181818198" y="4548.0" />
+            </edge>
+            <edge source="java.awt.Container.AccessibleAWTContainer" target="java.awt.Container">
+              <point x="-99.25" y="-115.0" />
+              <point x="3388.3806135121686" y="13442.0" />
+              <point x="2357.5" y="13442.0" />
+              <point x="140.0" y="1974.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.KeyboardState" target="java.io.Serializable">
+              <point x="61.75" y="-92.5" />
+              <point x="5168.6722801788355" y="248.0" />
+              <point x="3773.108333333333" y="248.0" />
+              <point x="42.399999999999636" y="14.5" />
+            </edge>
+            <edge source="java.awt.Component.BaselineResizeBehavior" target="java.awt.Component">
+              <point x="-50.25" y="-70.0" />
+              <point x="3048.0833333333335" y="9414.0" />
+              <point x="1627.9545454545455" y="9414.0" />
+              <point x="169.4545454545455" y="4548.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.ActionStandin" target="java.awt.event.ActionListener">
+              <point x="-99.25" y="-126.0" />
+              <point x="3371.625" y="19872.0" />
+              <point x="2733.75" y="19872.0" />
+              <point x="64.0" y="25.5" />
+            </edge>
+            <edge source="java.awt.Container.MouseEventTargetFilter" target="java.awt.Container">
+              <point x="-55.5" y="-48.5" />
+              <point x="1540.25" y="18780.0" />
+              <point x="1562.75" y="18780.0" />
+              <point x="1562.75" y="13432.0" />
+              <point x="1984.166666666667" y="13432.0" />
+              <point x="-233.33333333333326" y="1974.0" />
+            </edge>
+            <edge source="java.awt.Container.AccessibleAWTContainer.AccessibleContainerHandler" target="java.util.EventListener">
+              <point x="-74.0" y="-48.0" />
+              <point x="3064.531178589169" y="18780.0" />
+              <point x="2991.625" y="18780.0" />
+              <point x="22.125" y="14.5" />
+            </edge>
+            <edge source="com.ays.javachat.client.screen.OnlineList" target="java.awt.event.ActionListener">
+              <point x="36.125" y="-280.0" />
+              <point x="2307.5" y="19872.0" />
+              <point x="2605.75" y="19872.0" />
+              <point x="-64.0" y="25.5" />
+            </edge>
+            <edge source="com.ays.javachat.client.screen.OnlineList" target="com.ays.javachat.client.screen.DoubleClick">
+              <point x="-108.375" y="-280.0" />
+              <point x="2163.0" y="19932.0" />
+              <point x="1864.75" y="19932.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent" target="java.io.Serializable">
+              <point x="99.25" y="-401.0" />
+              <point x="3819.039716840535" y="268.0" />
+              <point x="3730.7083333333335" y="268.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="javax.swing.JScrollPane.ScrollBar" target="javax.swing.JComponent">
+              <point x="-71.33333333333303" y="-93.0" />
+              <point x="5430.7556135121695" y="19912.0" />
+              <point x="4972.9222801788355" y="19912.0" />
+              <point x="4972.9222801788355" y="18780.0" />
+              <point x="4853.6325633383" y="18780.0" />
+              <point x="69.0" y="2634.0" />
+            </edge>
+            <edge source="java.awt.Container.EventTargetFilter" target="java.awt.Container">
+              <point x="0.0" y="-25.5" />
+              <point x="1865.625" y="13442.0" />
+              <point x="2077.5" y="13442.0" />
+              <point x="-140.0" y="1974.0" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent.AccessibleAWTComponentHandler" target="java.util.EventListener">
+              <point x="-74.25" y="-70.0" />
+              <point x="3673.531178589169" y="18760.0" />
+              <point x="3021.125" y="18760.0" />
+              <point x="51.625" y="14.5" />
+            </edge>
+            <edge source="java.awt.Container.MouseEventTargetFilter" target="java.awt.Container.EventTargetFilter">
+              <point x="55.5" y="-48.5" />
+              <point x="1651.25" y="18780.0" />
+              <point x="1810.125" y="18780.0" />
+              <point x="-55.5" y="25.5" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent.AccessibleAWTComponentHandler" target="java.awt.Component.AccessibleAWTComponent">
+              <point x="74.25" y="-70.0" />
+              <point x="3822.031178589169" y="18780.0" />
+              <point x="4009.7480501738683" y="18780.0" />
+              <point x="4009.7480501738683" y="13442.0" />
+              <point x="3852.1230501738687" y="13442.0" />
+              <point x="132.33333333333348" y="401.0" />
+            </edge>
+            <edge source="java.awt.Component.DummyRequestFocusController" target="java.awt.Component">
+              <point x="0.0" y="-37.0" />
+              <point x="551.5" y="9424.0" />
+              <point x="1331.409090909091" y="9424.0" />
+              <point x="-127.09090909090901" y="4548.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.AccessibleJComponent" target="javax.swing.JComponent">
+              <point x="107.75" y="-192.0" />
+              <point x="4239.531178589169" y="18760.0" />
+              <point x="4577.6325633383" y="18760.0" />
+              <point x="-207.0" y="2634.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.IntVector" target="javax.swing.JComponent">
+              <point x="0.0" y="-103.5" />
+              <point x="4552.9222801788355" y="18780.0" />
+              <point x="4715.6325633383" y="18780.0" />
+              <point x="-69.0" y="2634.0" />
+            </edge>
+            <edge source="javax.swing.JScrollPane" target="javax.swing.JComponent">
+              <point x="-100.66666666666697" y="-511.0" />
+              <point x="5300.755613512169" y="18760.0" />
+              <point x="4991.6325633383" y="18760.0" />
+              <point x="207.0" y="2634.0" />
+            </edge>
+            <edge source="javax.swing.JScrollPane" target="javax.swing.ScrollPaneConstants">
+              <point x="0.0" y="-511.0" />
+              <point x="0.0" y="245.5" />
+            </edge>
+            <edge source="javax.swing.JComponent" target="javax.swing.TransferHandler.HasGetTransferHandler">
+              <point x="161.0" y="-2634.0" />
+              <point x="4945.6325633383" y="13442.0" />
+              <point x="4936.5075633383" y="13442.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.MenuContainer">
+              <point x="0.0" y="-4548.0" />
+              <point x="1458.5" y="268.0" />
+              <point x="1532.0833333333333" y="268.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="javax.swing.JScrollPane.AccessibleJScrollPane" target="javax.swing.JComponent.AccessibleJComponent">
+              <point x="0.0" y="-93.0" />
+              <point x="4446.0889468455025" y="19842.0" />
+              <point x="4275.447845255836" y="19842.0" />
+              <point x="143.66666666666697" y="192.0" />
+            </edge>
+            <edge source="java.awt.Component.SingleBufferStrategy" target="java.awt.Component">
+              <point x="0.0" y="-93.0" />
+              <point x="140.0" y="9404.0" />
+              <point x="1246.6818181818182" y="9404.0" />
+              <point x="-211.81818181818176" y="4548.0" />
+            </edge>
+            <edge source="java.awt.Component.FlipBufferStrategy" target="java.awt.Component">
+              <point x="0.0" y="-269.0" />
+              <point x="984.0" y="9434.0" />
+              <point x="1373.7727272727273" y="9434.0" />
+              <point x="-84.72727272727275" y="4548.0" />
+            </edge>
+            <edge source="java.awt.Container.DropTargetEventTargetFilter" target="java.awt.Container">
+              <point x="57.25" y="-48.5" />
+              <point x="2194.5" y="18780.0" />
+              <point x="2265.25" y="18780.0" />
+              <point x="2265.25" y="13442.0" />
+              <point x="2264.166666666667" y="13442.0" />
+              <point x="46.666666666666515" y="1974.0" />
+            </edge>
+            <edge source="javax.swing.JComponent.AccessibleJComponent.AccessibleContainerHandler" target="javax.swing.JComponent.AccessibleJComponent">
+              <point x="74.0" y="-48.0" />
+              <point x="2657.9375" y="19892.0" />
+              <point x="3988.114511922502" y="19892.0" />
+              <point x="-143.66666666666697" y="192.0" />
+            </edge>
+            <edge source="java.awt.Component.BaselineResizeBehavior" target="java.io.Serializable">
+              <point x="50.25" y="-70.0" />
+              <point x="3148.5833333333335" y="268.0" />
+              <point x="3709.5083333333337" y="268.0" />
+              <point x="-21.199999999999818" y="14.5" />
+            </edge>
+            <edge source="java.awt.Component.BltSubRegionBufferStrategy" target="java.awt.Component.BltBufferStrategy">
+              <point x="-84.75" y="-48.0" />
+              <point x="1298.0" y="13442.0" />
+              <point x="1307.0" y="13442.0" />
+              <point x="0.0" y="214.0" />
+            </edge>
+            <edge source="javax.swing.JScrollPane.ScrollBar" target="javax.accessibility.Accessible">
+              <point x="71.33333333333303" y="-93.0" />
+              <point x="5573.4222801788355" y="19932.0" />
+              <point x="5753.9222801788355" y="19932.0" />
+              <point x="61.5" y="25.5" />
+            </edge>
+            <edge source="javax.swing.JScrollPane" target="javax.accessibility.Accessible">
+              <point x="100.66666666666697" y="-511.0" />
+              <point x="5502.0889468455025" y="18780.0" />
+              <point x="5630.9222801788355" y="18780.0" />
+              <point x="-61.5" y="25.5" />
+            </edge>
+            <edge source="java.awt.event.ActionListener" target="java.util.EventListener">
+              <point x="0.0" y="-25.5" />
+              <point x="2669.75" y="18770.0" />
+              <point x="2932.625" y="18770.0" />
+              <point x="-36.875" y="14.5" />
+            </edge>
+            <edge source="java.awt.Container" target="java.awt.Component">
+              <point x="0.0" y="-1974.0" />
+              <point x="2217.5" y="9444.0" />
+              <point x="1500.8636363636365" y="9444.0" />
+              <point x="42.36363636363649" y="4548.0" />
+            </edge>
+            <edge source="javax.swing.JScrollPane.AccessibleJScrollPane" target="javax.swing.JScrollPane">
+              <point x="101.33333333333303" y="-93.0" />
+              <point x="4547.4222801788355" y="19932.0" />
+              <point x="5401.4222801788355" y="19932.0" />
+              <point x="0.0" y="511.0" />
+            </edge>
+            <edge source="java.awt.Component.FlipSubRegionBufferStrategy" target="java.awt.Component">
+              <point x="-86.0" y="-48.0" />
+              <point x="336.03971684053477" y="13442.0" />
+              <point x="290.5" y="13442.0" />
+              <point x="290.5" y="9414.0" />
+              <point x="1289.0454545454545" y="9414.0" />
+              <point x="-169.4545454545455" y="4548.0" />
+            </edge>
+            <edge source="javax.swing.JComponent" target="java.io.Serializable">
+              <point x="0.0" y="-2634.0" />
+              <point x="4784.6325633383" y="13442.0" />
+              <point x="4804.1325633383" y="13442.0" />
+              <point x="4804.1325633383" y="258.0" />
+              <point x="3751.9083333333333" y="258.0" />
+              <point x="21.199999999999818" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.1" x="3132.0" y="20244.0" />
+          <SelectedNodes>
+            <node>java.awt.Component</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.ays.javachat.client.screen.ClientScreen">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.ays.javachat.client.screen.ClientScreen</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.EventListener</node>
+            <node x="" y="">java.awt.event.KeyListener</node>
+            <node x="" y="">com.ays.javachat.client.screen.ClientScreen</node>
+            <node x="" y="">java.awt.event.ActionListener</node>
+            <node x="" y="">com.ays.javachat.client.screen.RoomActions</node>
+            <node x="" y="">com.ays.javachat.client.screen.OnlineListActions</node>
+            <node x="" y="">com.ays.javachat.client.interfaces.ScreenCapables</node>
+            <node x="" y="">java.awt.event.MouseListener</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.4858625803262481" x="879.0" y="377.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/OnlineList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="133" column="30" lean-forward="false" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
-          <folding>
-            <element signature="method#mouseExited#0;class#OnlineList#0" expanded="false" />
-            <element signature="method#mouseEntered#0;class#OnlineList#0" expanded="false" />
-            <element signature="method#mouseReleased#0;class#OnlineList#0" expanded="false" />
-            <element signature="method#mousePressed#0;class#OnlineList#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="1122">
+          <caret line="161" column="0" lean-forward="true" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/RoomActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/awt/LayoutManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/event/ChangeListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/DoubleClick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/JTabbedPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="671" column="16" lean-forward="false" selection-start-line="671" selection-start-column="16" selection-end-line="671" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/manager/ClientManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/JTextPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="157" column="26" lean-forward="false" selection-start-line="157" selection-start-column="26" selection-end-line="157" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/PrivateRoomContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/OnlineListActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/Dialogs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="845">
+          <caret line="405" column="0" lean-forward="true" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/ClientScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1581">
+          <caret line="312" column="0" lean-forward="false" selection-start-line="312" selection-start-column="0" selection-end-line="312" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/screen/Rooms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="56" column="60" lean-forward="false" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/ObjectOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1324">
+          <caret line="161" column="13" lean-forward="false" selection-start-line="161" selection-start-column="13" selection-end-line="161" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/transmitter/ClientTransmitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Dialogs#0;class#Dialogs#0" expanded="false" />
-            <element signature="method#chars2String#0;class#Dialogs#0" expanded="false" />
-            <element signature="method#showDialog#0;class#Dialogs#0" expanded="false" />
-            <element signature="method#loginDialog#0;class#Dialogs#0" expanded="false" />
-            <element signature="method#connectDialog#0;class#Dialogs#0" expanded="false" />
-            <element signature="method#registerDialog#0;class#Dialogs#0" expanded="false" />
-            <element signature="docComment;method#showUserDetailsDialog#0;class#Dialogs#0" expanded="false" />
-            <element signature="method#showUserDetailsDialog#0;class#Dialogs#0" expanded="false" />
-            <element signature="docComment;method#manageIgnoreUsersialog#0;class#Dialogs#0" expanded="false" />
-            <element signature="method#manageIgnoreUsersialog#0;class#Dialogs#0" expanded="false" />
-            <element signature="docComment;method#aboutDialog#0;class#Dialogs#0" expanded="false" />
-            <element signature="method#aboutDialog#0;class#Dialogs#0" expanded="false" />
+            <element signature="docComment;method#ClientTransmitter#0;class#ClientTransmitter#0" expanded="false" />
+            <element signature="method#connect#0;class#ClientTransmitter#0" expanded="false" />
+            <element signature="method#disconnect#0;class#ClientTransmitter#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/com/ays/javachat/client/transmitter/ThreadListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="94" lean-forward="false" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="94" />
+          <folding>
+            <element signature="method#ThreadListener#0;class#ThreadListener#0" expanded="false" />
+            <element signature="method#run#0;class#ThreadListener#0" expanded="false" />
           </folding>
         </state>
       </provider>

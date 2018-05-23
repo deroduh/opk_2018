@@ -27,7 +27,7 @@ public class ClientScreen implements ScreenCapables,
         RoomActions,
         OnlineListActions {
     // program title
-    private final String PROGRAM_TITLE = "Chat client 1.1";
+     private final String PROGRAM_TITLE = "Chat client 1.1";
 
     private final String GENERAL_ROOM = "General room";
 
@@ -78,7 +78,7 @@ public class ClientScreen implements ScreenCapables,
     JLabel statusBarLabel = new JLabel("Ready");
     JFrame f = new JFrame();
     JPanel MainPanel = new JPanel(new GridBagLayout());
-    JPopupMenu popupMenu = new JPopupMenu();
+//    JPopupMenu popupMenu = new JPopupMenu();
 
 
     ///////////////////////////////////////////////////////////////////////////
@@ -98,7 +98,7 @@ public class ClientScreen implements ScreenCapables,
     public void start() {
         show();
         init_tabs();
-        init_list();
+       // init_list();
 
         doConnect();
     }
@@ -196,19 +196,17 @@ public class ClientScreen implements ScreenCapables,
         menuItem.addActionListener(this);
         menu.add(menuItem);
         menu.addSeparator();
+
         menuItem = new JMenuItem(menuLOGIN);
         menuItem.addActionListener(this);
         menu.add(menuItem);
         menu.addSeparator();
+
         menuItem = new JMenuItem(menuREGISTER);
         menuItem.addActionListener(this);
         menu.add(menuItem);
-        /*
-        menuItem = new JMenuItem( menuUNREGISTER ) ;
-        menuItem.addActionListener( this ) ;
-        menu.add( menuItem ) ;
-        */
         menu.addSeparator();
+
         menuItem = new JMenuItem(menuEXIT);
         menuItem.addActionListener(this);
         menu.add(menuItem);
@@ -216,11 +214,7 @@ public class ClientScreen implements ScreenCapables,
         // View
         menu = new JMenu("View");
         menuBar.add(menu);
-        /*
-        menuItem = new JMenuItem( menuOPTIONS ) ;
-        menuItem.addActionListener( this ) ;
-        menu.add( menuItem ) ;
-        */
+
         menuItem = new JMenuItem(menuMyDetails);
         menuItem.addActionListener(this);
         menu.add(menuItem);
@@ -328,16 +322,16 @@ public class ClientScreen implements ScreenCapables,
         }
     }
 
-    private void doUnregister() {
-        UnRegister req = new UnRegister();
-        int iStatus = screenCallback.sendRequest(req);
-
-        ReplyUnregister reply;
-        if (iStatus != Net.OK) {
-            reply = new ReplyUnregister(iStatus);
-            replyReceived(reply);
-        }
-    }
+//    private void doUnregister() {
+//        UnRegister req = new UnRegister();
+//        int iStatus = screenCallback.sendRequest(req);
+//
+//        ReplyUnregister reply;
+//        if (iStatus != Net.OK) {
+//            reply = new ReplyUnregister(iStatus);
+//            replyReceived(reply);
+//        }
+//    }
 
     private void doGetUserDetails(String aUserName, int aFlag) {
         GetUserDetails req = new GetUserDetails(aUserName);

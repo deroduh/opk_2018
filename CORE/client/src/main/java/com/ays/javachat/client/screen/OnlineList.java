@@ -99,12 +99,12 @@ public class OnlineList extends JScrollPane implements MouseListener, ActionList
         guiList.revalidate();
     }
 
-    public void updateUser(String aUserName, UserDetails aDetails) {
-        if (onlineList.get(aUserName) == null)
-            return; // user is not in the list
-
-        onlineList.put(aUserName, aDetails);
-    }
+//    public void updateUser(String aUserName, UserDetails aDetails) {
+//        if (onlineList.get(aUserName) == null)
+//            return; // user is not in the list
+//
+//        onlineList.put(aUserName, aDetails);
+//    }
 
     public void setName(String aName) {
         super.setName(aName);

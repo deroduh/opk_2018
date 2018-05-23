@@ -70,20 +70,6 @@ public class Rooms extends JTabbedPane implements MouseListener, ChangeListener 
         prc.tp.setEditable(false);
         prc.doc = prc.tp.getStyledDocument();
 
-        /*
-        Style def = StyleContext.getDefaultStyleContext().getStyle( StyleContext.DEFAULT_STYLE ) ;
-
-        Style color = prc.doc.addStyle( "def", def ) ;
-        StyleConstants.setForeground( color, Color.red ) ;
-
-        Style bw = prc.doc.addStyle( "color", color ) ;
-        StyleConstants.setForeground( bw, Color.black );
-
-        prc.doc.addStyle( "bw", bw ) ;
-
-        StyleConstants.setFontSize( color, 10 ) ;
-        StyleConstants.setFontSize( bw, 20 ) ;
-        */
         Style def = StyleContext.getDefaultStyleContext().getStyle(StyleContext.DEFAULT_STYLE);
 
         Style regular = prc.doc.addStyle("regular", def);
@@ -93,12 +79,6 @@ public class Rooms extends JTabbedPane implements MouseListener, ChangeListener 
         StyleConstants.setBold(s, true);
         StyleConstants.setForeground(s, Color.red);
 
-        //prc.ta = new JTextArea() ;
-        //prc.ta.setName( aRoomName ) ;
-        //prc.ta.setEditable( false ) ;
-        //prc.ta.setFocusable( false ) ;
-
-        //prc.scroll = new JScrollPane( prc.ta ) ;
         prc.scroll = new JScrollPane(prc.tp);
         prc.scroll.setName(aRoomName);
 
@@ -114,12 +94,6 @@ public class Rooms extends JTabbedPane implements MouseListener, ChangeListener 
         prc.ignoreButton.setName(IGNORE_BUTTON);
         prc.ignoreButton.addMouseListener(this);
 
-        //prc.userDetailsButton = new JButton( "User details" ) ;
-        //prc.ignoreButton.setToolTipText( "Show user details" ) ;
-        //prc.ignoreButton.setName( USER_DETAILS_BUTTON ) ;
-        //prc.ignoreButton.addMouseListener( this ) ;
-
-
         JPanel p1, p2;
         p1 = new JPanel();
         p2 = new JPanel();
@@ -129,7 +103,6 @@ public class Rooms extends JTabbedPane implements MouseListener, ChangeListener 
         //prc.buttonsPanel.add( prc.closeButton ) ;
         prc.buttonsPanel.add(p1);
         prc.buttonsPanel.add(p2);
-        //prc.buttonsPanel.add( prc.ignoreButton ) ;
 
         prc.setName(aRoomName);
         prc.add(prc.buttonsPanel, BorderLayout.EAST);
